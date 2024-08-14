@@ -7,7 +7,7 @@ __version__ = "0.0.0"
 
 REPO_NAME = "ML_Project_MLFlow_AWS"
 AUTHOR_UNAME = "Empyrean1001"
-SRC_REPO = "ML-project"
+SRC_REPO = "ML_project"
 AUTHOR_MAIL = "devkrishnajhawar@gmail.com"
 
 setuptools.setup(
