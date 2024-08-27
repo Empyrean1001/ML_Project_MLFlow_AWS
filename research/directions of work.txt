@@ -1,0 +1,6 @@
+Learn about implementation of LangChain and LLMs.
+Learn about how to use documents in LLMs.
+Learn about basic chatbot development, and also how to process documents for a chatbot through vecctor database.
+Start implementing the 'chat with docuemnts' idea.
+Select and build a small initial database for the LLM to train. 
+Deploy on Streamlit.
